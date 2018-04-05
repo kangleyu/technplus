@@ -1,0 +1,24 @@
+{
+  "name": "technplus",
+  "version": "0.0.1",
+  "description": "technplus dashboard framework, which can be used for structuring any dashboard based application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangleyu/technplus.git"
+  },
+  "keywords": [
+    "dashboard",
+    "technplus",
+    "framework"
+  ],
+  "author": "Tom Yu <yukangle@outlook.com> (http://www.kangleyu.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kangleyu/technplus/issues"
+  },
+  "homepage": "https://github.com/kangleyu/technplus#readme"
+}
